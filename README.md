@@ -3,7 +3,7 @@
 ### I'm a backend developer
 
 ## My main projects: 
-### SchVictorina - [alekami649/schvictorina](https://github.com/alekami649/schvictorina)
+### SchVictorina - [akrienline/schvictorina](https://github.com/akrienline/schvictorina)
 ### Portfolio - [alekami649/website](https://github.com/alekami649/website)
 
 ## And my upcoming projects:
