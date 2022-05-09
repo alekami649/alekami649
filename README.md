@@ -1,5 +1,3 @@
-# MY ACCOUNT MAY BE BLOCKED! USE THIS: https://gitflic.ru/user/alekami649
-
 ### Hi there 👋
 
 ### I'm a backend developer
