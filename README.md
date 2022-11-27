@@ -23,7 +23,7 @@ A modern virtual school diary, and journal. Based on Blazor, and ASP.NET WebAPI.
 
 ## Project, not allocated with any series:
 
-### Portfolio - [alekami649/website](https://github.com/alekami649/website)
+### Personal Website | [👉 Source Code 👈](https://github.com/alekami649/website)
 
 ## Archive projects🤫:
 ### MineArt - [alekami649/MineArt](https://github.com/alekami649/MineArt)
