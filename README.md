@@ -2,11 +2,28 @@
 
 ### 👤 I'm a backend developer
 
-## My main projects🤗: 
+|Level|Programming Language|
+|----:|--------------------|
+|Junior (I trying to higher...)|C#|
+|Low* (I studing on it)|C++|
+|Super-Low*|SQL|
+
+* Low is worse than junior.
+
+## My projects🤗: 
+
+## The School (SCH) Series:
+
 ### SchVictorina - [akrienline/schvictorina](https://github.com/akrienline/schvictorina)
 
 A Telegram bot - question generator, score table, and some competitive. <br>
  [👉 Chat with him!](https://t.me/schvictorina_bot) *(only **Russian language** support)*
+
+### SchJournal - IN DEVELOPMENT, repository is private.
+
+A modern virtual school diary, and journal. Based on Blazor, and ASP.NET WebAPI.
+
+## Project, not allocated with any series:
 
 ### Portfolio - [alekami649/website](https://github.com/alekami649/website)
 
