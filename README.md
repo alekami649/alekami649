@@ -14,7 +14,7 @@
 
 ## The School (SCH) Series:
 
-### SchVictorina - [akrienline/schvictorina](https://github.com/akrienline/schvictorina)
+### SchVictorina - [👉 Source Code](https://github.com/alekami649/schvictorina_legacy)
 
 A Telegram bot - question generator, score table, and some competitive. <br>
  [👉 Chat with him!](https://t.me/schvictorina_bot) *(only **Russian language** support)*
