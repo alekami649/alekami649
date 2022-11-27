@@ -12,14 +12,12 @@
 
 ## My projects🤗: 
 
-## The School (SCH) Series:
+## The School Series:
 
-### SchVictorina - [👉 Source Code](https://github.com/alekami649/schvictorina_legacy)
+### SchVictorina | [👉 Source Code 👈](https://github.com/alekami649/schvictorina_legacy)
 
 A Telegram bot - question generator, score table, and some competitive. <br>
  [👉 Chat with him!](https://t.me/schvictorina_bot) *(only **Russian language** support)*
-
-### SchJournal - IN DEVELOPMENT, repository is private.
 
 A modern virtual school diary, and journal. Based on Blazor, and ASP.NET WebAPI.
 
