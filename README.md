@@ -4,8 +4,8 @@
 
 |Level|Programming Language|
 |----:|--------------------|
-|Junior (I trying to higher...)|C#|
-|Low* (I studing on it)|C++|
+|Junior *(I trying to higher...)*|C#|
+|Low* *(I studing on it)*|C++|
 |Super-Low*|SQL|
 
 * Low is worse than junior.
