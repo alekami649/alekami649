@@ -19,8 +19,6 @@
 A Telegram bot - question generator, score table, and some competitive. <br>
  [👉 Chat with him!](https://t.me/schvictorina_bot) *(only **Russian language** support)*
 
-A modern virtual school diary, and journal. Based on Blazor, and ASP.NET WebAPI.
-
 ## Project, not allocated with any series:
 
 ### Personal Website | [👉 Source Code 👈](https://github.com/alekami649/website)
