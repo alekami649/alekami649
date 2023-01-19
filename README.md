@@ -17,7 +17,7 @@
 ### SchVictorina | [👉 Source Code 👈](https://github.com/alekami649/schvictorina_legacy)
 
 A Telegram bot - question generator, score table, and some competitive. <br>
- [👉 Chat with him!](https://t.me/schvictorina_bot) *(only **Russian language** support)*
+ [👉 Chat with him!](https://t.me/schvictorina_bot) *(**not working**)*
 
 ## Project, not allocated with any series:
 
