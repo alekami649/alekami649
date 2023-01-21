@@ -19,6 +19,12 @@
 A Telegram bot - question generator, score table, and some competitive. <br>
  [👉 Chat with him!](https://t.me/schvictorina_bot) *(**not working**)*
 
+## The `.gg` Series:
+
+### FuckML | [👉 Source Code 👈](https://github.com/alekami649/FuckML)
+
+A simple obsense searcher - text or image.
+
 ## Project, not allocated with any series:
 
 ### Personal Website | [👉 Source Code 👈](https://github.com/alekami649/website)
