@@ -14,7 +14,7 @@
 
 ## The School Series:
 
-### SchVictorina | [👉 Source Code 👈](https://github.com/alekami649/schvictorina_legacy)
+### SchVictorina | [👉 Source Code 👈](https://github.com/alekami649/schvictorina_legacy) | 1st Generation
 
 A Telegram bot - question generator, score table, and some competitive. <br>
  [👉 Chat with him!](https://t.me/schvictorina_bot) *(**not working**)*
