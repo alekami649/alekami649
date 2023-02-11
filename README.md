@@ -2,13 +2,9 @@
 
 ### 👤 I'm a backend developer
 
-|Level|Programming Language|
-|----:|--------------------|
-|Junior *(I trying to higher...)*|C#|
-|Low* *(I studing on it)*|C++|
-|Super-Low*|SQL|
+[![alekami649's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekami649&theme=tokyonight)](https://github.com/alekami649)
 
-* Low is worse than junior.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekami649&theme=tokyonight&layout=compact)](https://github.com/alekami649)
 
 ## My projects🤗: 
 
