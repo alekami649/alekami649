@@ -12,13 +12,9 @@
 
 ## AI & ML & NLP
 
-### ATNLP
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekami649&repo=atnlp&theme=radical#gh-dark-mode-only)](https://github.com/alekami649/atnlp#gh-dark-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekami649&repo=atnlp&theme=buefy#gh-light-mode-only)](https://github.com/alekami649/atnlp#gh-light-mode-only)
-
-### TCA
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekami649&repo=tca&theme=radical#gh-dark-mode-only)](https://github.com/alekami649/tca#gh-dark-mode-only)
 
