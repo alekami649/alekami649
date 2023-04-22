@@ -8,8 +8,8 @@
 [![alekami649's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=alekami649&theme=radical&layout=compact#gh-dark-mode-only)](https://github.com/alekami649#gh-dark-mode-only)
 [![alekami649's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=alekami649&theme=buefy&layout=compact#gh-light-mode-only)](https://github.com/alekami649#gh-light-mode-only)
 
-[![alekami649's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alekami649&theme=radical#gh-dark-mode-only)](https://github.com/alekami649)
-[![alekami649's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alekami649&theme=buefy#gh-light-mode-only)](https://github.com/alekami649)
+[![alekami649's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alekami649&theme=radical#gh-dark-mode-only)](https://github.com/alekami649#gh-dark-mode-only)
+[![alekami649's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alekami649&theme=buefy#gh-light-mode-only)](https://github.com/alekami649#gh-light-mode-only)
 
 ## My projects🤗: 
 
