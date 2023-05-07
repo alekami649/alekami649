@@ -23,9 +23,5 @@ A Telegram bot - question generator, score table, and some competitive. <br>
 
 A simple obsense searcher - text or image.
 
-## Project, not allocated with any series:
-
-### Personal Website | [👉 Source Code 👈](https://github.com/alekami649/website)
-
 ## Archive projects🤫:
 ### MineArt - [alekami649/MineArt](https://github.com/alekami649/MineArt)
