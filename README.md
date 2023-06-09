@@ -12,7 +12,7 @@
 
 ## I am started with:
 
-### SchVictorina | [👉 Source Code 👈](https://github.com/alekami649/schvictorina_legacy) | 1st Generation
+### SchVictorina | [👉 Source Code 👈](https://github.com/alekami649/schvictorina_legacy)
 
 A Telegram bot - question generator, score table, and some competitive. <br>
 [👉 Chat with him!](https://t.me/schvictorina_bot)
