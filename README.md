@@ -14,8 +14,7 @@
 
 ### SchVictorina | [👉 Source Code 👈](https://github.com/alekami649/schvictorina_legacy)
 
-A Telegram bot - question generator, score table, and some competitive. <br>
-[👉 Chat with him!](https://t.me/schvictorina_bot)
+A Telegram bot - question generator, score table, and some competitive.
 
 ### FuckML | [👉 Source Code 👈](https://github.com/alekami649/FuckML)
 
